@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152281829181",
+    "project_id": "spe-project-sitegas",
+    "storage_bucket": "spe-project-sitegas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152281829181:android:2dec889a7e3753bcc47f54",
+        "android_client_info": {
+          "package_name": "com.example.spe_project_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152281829181-l07m4tqiodp872ljvrci4kmqj0m4hmdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP-w5NoRWouQnaNsfJnS0wZGmXCfSvBo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152281829181-l07m4tqiodp872ljvrci4kmqj0m4hmdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
